@@ -7,7 +7,7 @@ const Home = () => {
     <div className="dark:bg-gray-950 bg-blue-50">
       <Header />
       <GridConfiguration />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
